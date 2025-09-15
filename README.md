@@ -1,5 +1,4 @@
 # Fibonacci Spiral Project
-
 This simple Python project prints Fibonacci numbers and draws a spiral on a graph.
 
 ## What it does
@@ -17,7 +16,8 @@ This simple Python project prints Fibonacci numbers and draws a spiral on a grap
    .\run.ps1
    ```
    (If you see an execution policy warning, you can run this once: 
-   `Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass` and then run `.un.ps1` again.)
+   `Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass` and then run `.
+un.ps1` again.)
 
 The script will create a virtual environment, install dependencies, and run the app.
 
