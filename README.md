@@ -34,6 +34,7 @@ python main.py -n 20 --turns 10 --save
 - `--squares`     : Overlay Fibonacci squares and arcs (off by default).
 - `--save`        : Save figure to `output/spiral.png` in addition to showing it.
 - `--no-show`     : Don’t pop up a window (useful on headless systems).
+
 ## Files
 - `main.py`           – Entry point (parses args, prints sequence, draws spiral).
 - `fib.py`            – Fibonacci sequence helpers.
