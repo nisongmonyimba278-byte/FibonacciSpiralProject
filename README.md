@@ -28,6 +28,7 @@ python -m venv .venv
 pip install -r requirements.txt
 python main.py -n 20 --turns 10 --save
 ```
+
 ## CLI Options
 - `-n, --numbers` : How many Fibonacci numbers to generate (default: 20).
 - `--turns`       : How many quarter-turns of the spiral to draw (default: 12).
