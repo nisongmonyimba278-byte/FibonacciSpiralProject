@@ -7,7 +7,7 @@ This simple Python project prints Fibonacci numbers and draws a spiral on a grap
 - Optionally overlays the first _N_ **Fibonacci squares** and quarter-circle arcs to visualize the classic Fibonacci tiling.
 - Saves the spiral image to `output/spiral.png`.
 
-## Quick start (VS Code + PowerShell on Windows)
+## Quick start 
 1. **Unzip** this project.
 2. Open the folder in **VS Code**.
 3. Press `Ctrl+Shift+P` → “**Terminal: Create New Integrated Terminal**” (PowerShell).
