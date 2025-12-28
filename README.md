@@ -1,6 +1,5 @@
 # Fibonacci Spiral Project
 This simple Python project prints Fibonacci numbers and draws a spiral on a graph.
-
 ## What it does
 - Prints the first _N_ Fibonacci numbers to the terminal.
 - Plots a **golden spiral** (a logarithmic spiral that grows by the golden ratio every 90°).
