@@ -17,7 +17,6 @@ This simple Python project prints Fibonacci numbers and draws a spiral on a grap
    `Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass` and then run `.
 un.ps1` again.)
 The script will create a virtual environment, install dependencies, and run the app.
-
 ## Manual run (optional)
 ```bash
 python -m venv .venv
